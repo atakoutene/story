@@ -1,0 +1,3 @@
+# story
+Learn  version  version control with git
+just practice git command push, pull, fork, clone...
